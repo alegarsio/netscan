@@ -1,0 +1,8 @@
+                                                                            Netscan manual
+__________________________________________________                  (c) Copyright alegrarsio 2022
+How to use :                                      |
+python netscan.py + network_address/subnet + port |
+-ex : python netscan.py 192.168.1.0/24 + 80       |
+__________________________________________________| 
+
+Caution ->  Use this software without permission from concered is illegal , user responsible for the action !
